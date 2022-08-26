@@ -1,0 +1,7 @@
+C:\Users\Waybee\Desktop\.NET\ADO .net\TestDatabase\TestDatabase\bin\Debug\TestDatabase.exe.config
+C:\Users\Waybee\Desktop\.NET\ADO .net\TestDatabase\TestDatabase\bin\Debug\TestDatabase.exe
+C:\Users\Waybee\Desktop\.NET\ADO .net\TestDatabase\TestDatabase\bin\Debug\TestDatabase.pdb
+C:\Users\Waybee\Desktop\.NET\ADO .net\TestDatabase\TestDatabase\obj\Debug\TestDatabase.csproj.AssemblyReference.cache
+C:\Users\Waybee\Desktop\.NET\ADO .net\TestDatabase\TestDatabase\obj\Debug\TestDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Waybee\Desktop\.NET\ADO .net\TestDatabase\TestDatabase\obj\Debug\TestDatabase.exe
+C:\Users\Waybee\Desktop\.NET\ADO .net\TestDatabase\TestDatabase\obj\Debug\TestDatabase.pdb

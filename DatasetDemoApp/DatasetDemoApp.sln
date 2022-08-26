@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DatasetDemoApp", "DatasetDemoApp\", "{8690AC71-801F-427D-B3B5-2F31BCC86B35}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62516"
+		Debug.AspNetCompiler.PhysicalPath = "DatasetDemoApp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62516\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62516"
+		Release.AspNetCompiler.PhysicalPath = "DatasetDemoApp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62516\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62516"
+		SlnRelativePath = "DatasetDemoApp\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8690AC71-801F-427D-B3B5-2F31BCC86B35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8690AC71-801F-427D-B3B5-2F31BCC86B35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {896D4E86-7B35-4CA6-AA5D-97B57250F018}
+	EndGlobalSection
+EndGlobal
